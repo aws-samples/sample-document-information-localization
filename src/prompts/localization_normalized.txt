@@ -1,0 +1,18 @@
+Your task is to detect and localize objects in images with high precision.
+Analyze each provided image and return only a JSON object with bounding box data for detected objects.
+
+Output Requirements:
+1. Use (x1, y1, x2, y2) format for bounding box coordinates, scaled between 0 and 1000.
+2. Fit bounding boxes tightly around objects.
+
+Detected Object Structure:
+- "element": Use one of these labels exactly: {elements}
+- "bbox": Array [x1, y1, x2, y2] scaled between 0 and 1000.
+
+***Follow this format exactly:***
+```json
+{schema}
+```
+
+
+Provide only the specified JSON format without extra information.

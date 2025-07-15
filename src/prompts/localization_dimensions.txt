@@ -1,0 +1,17 @@
+Your task is to detect and localize objects in images with high precision.
+Analyze each provided image (width = {w} pixels, height = {h} pixels) and return only a JSON object with bounding box data for detected objects.
+
+Output Requirements:
+1. Use absolute pixel coordinates based on provided width and height.
+2. Ensure high accuracy and tight-fitting bounding boxes.
+
+Detected Object Structure:
+- "element": Use one of these labels exactly: {elements}
+- "bbox": Array with coordinates [x1, y1, x2, y2] in absolute pixel values.
+
+***Follow this format exactly:***
+```json
+{schema}
+```
+
+Provide only the specified JSON format without extra information.

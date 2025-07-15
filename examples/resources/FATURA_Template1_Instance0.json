@@ -1,0 +1,255 @@
+{
+    "TABLE": [
+        [
+            {
+                "bbox": [
+                    [
+                        10.0,
+                        328.88980000000004
+                    ],
+                    [
+                        560.0,
+                        220.8898
+                    ]
+                ]
+            }
+        ]
+    ],
+    "INVOICE_INFO": [],
+    "BUYER": {
+        "bbox": [
+            [
+                332.0,
+                614.4058000000001
+            ],
+            [
+                500.43199999999996,
+                698.4058
+            ]
+        ],
+        "text": "Bill to:Denise Perez\n16424 Timothy Mission\nMarkville, AK 58294 US\nTel:+(352)259-8443\nEmail:melvin40@example.net\nSite:http://smith.org/"
+    },
+    "DATE": {
+        "bbox": [
+            [
+                328.0,
+                776.4058
+            ],
+            [
+                428.704,
+                788.4058
+            ]
+        ],
+        "text": "Date: 20-Mar-2008"
+    },
+    "DISCOUNT": {
+        "bbox": [
+            [
+                388.0,
+                147.4058
+            ],
+            [
+                552.028,
+                159.4058
+            ]
+        ],
+        "text": "DISCOUNT(1.85%): (-)  13.42"
+    },
+    "DUE_DATE": {
+        "bbox": [
+            [
+                329.0,
+                760.4058
+            ],
+            [
+                459.704,
+                772.4058
+            ]
+        ],
+        "text": "Due Date : 16-Oct-2016"
+    },
+    "GSTIN_BUYER": {
+        "bbox": [
+            [
+                231.0,
+                588.4058
+            ],
+            [
+                406.728,
+                600.4058
+            ]
+        ],
+        "text": "GSTIN: OG@AAMFCO376K124"
+    },
+    "NOTE": {
+        "bbox": [
+            [
+                9.0,
+                44.00576
+            ],
+            [
+                277.056,
+                70.40576
+            ]
+        ],
+        "text": "Note:\nThis order is shipped through blue dart courier"
+    },
+    "PAYMENT_DETAILS": {
+        "bbox": [
+            [
+                9.0,
+                103.2058
+            ],
+            [
+                246.40800000000002,
+                158.4058
+            ]
+        ],
+        "text": "Bank Name           State Bank of California\nBranch Name          Raf CAMP\nBank Account Number  11695435\nBank Swift Code      SBININBB250"
+    },
+    "PO_NUMBER": {
+        "bbox": [
+            [
+                329.0,
+                744.6128
+            ],
+            [
+                408.464,
+                755.6128
+            ]
+        ],
+        "text": "PO Number :35"
+    },
+    "SELLER_ADDRESS": {
+        "bbox": [
+            [
+                29.0,
+                671.0058
+            ],
+            [
+                212.38400000000001,
+                697.4058
+            ]
+        ],
+        "text": "Address:16424 Timothy Mission\nMarkville, AK 58294 US"
+    },
+    "SELLER_EMAIL": {
+        "bbox": [
+            [
+                27.0,
+                640.4058
+            ],
+            [
+                195.432,
+                652.4058
+            ]
+        ],
+        "text": "Email:melvin40@example.net"
+    },
+    "SELLER_SITE": {
+        "bbox": [
+            [
+                27,
+                626
+            ],
+            [
+                190,
+                638
+            ]
+        ],
+        "text": "www.ThompsonandSons.org"
+    },
+    "SUB_TOTAL": {
+        "bbox": [
+            [
+                388.0,
+                163.4058
+            ],
+            [
+                539.3679999999999,
+                175.4058
+            ]
+        ],
+        "text": "SUB_TOTAL : 725.30  EUR"
+    },
+    "TAX": {
+        "bbox": [
+            [
+                388.0,
+                134.4058
+            ],
+            [
+                554.704,
+                146.4058
+            ]
+        ],
+        "text": "TAX:VAT (3.88%):  28.18 EUR"
+    },
+    "TITLE": {
+        "bbox": [
+            [
+                328.0,
+                802.1638
+            ],
+            [
+                443.02,
+                820.1638
+            ]
+        ],
+        "text": "TAX INVOICE"
+    },
+    "TOTAL": {
+        "bbox": [
+            [
+                388.0,
+                90.40576
+            ],
+            [
+                504.02799999999996,
+                102.40576
+            ]
+        ],
+        "text": "TOTAL : 734.33 EUR"
+    },
+    "TOTAL_WORDS": {
+        "bbox": [
+            [
+                9.0,
+                159.0058
+            ],
+            [
+                241.70399999999998,
+                185.4058
+            ]
+        ],
+        "text": "Total in words:  seven hundred and thirt-\ny-four point three three"
+    },
+    "GSTIN_SELLER": {
+        "bbox": [
+            [
+                27.0,
+                612.4058
+            ],
+            [
+                185.08799999999997,
+                624.4058
+            ]
+        ],
+        "text": "(GSTIN: 12345670 00070007"
+    },
+    "OTHER": {
+        "text": "TAX INVOICE\n\nDate: 20-Mar-2008\nDue Date : 16-Oct-2016\nPO Number :35\n\nAddress:16424 Timothy Mission Bill to:Denise Perez\n\nMarkville, AK 58294 US 16424 Timothy Mission\nMarkville, AK 58294 US\n\nEmail:melvind0@example.net Tel: +(352)259-8443\n\nsleekbill in Email:melvin40@example.net\n\n(GSTIN: 12345670 00070007 Site:http://smith.org/\n\nGSTIN: OG@AAMFCO376K124\n\nITEMS QUANTITY\n\nData score fire. 6.00\n\nDetermine half. 2.00\nModel read. 1.00\n\nMother consider. 1.00\n\nTv focus. 4.00\n\nTotal in words: seven hundred and thirt-\n\ny-four point three three SUB_TOTAL : 725.30 EUR\nBank Name State Bank of California DISCOUNT(1.85%): (-) 13.42\nBranch Name Raf CAMP TAX:VAT (3.88%): 28.18 EUR\n\nBank Account Number 11695435\nBank Swift Code SBININBB250\nTOTAL : 734.33 EUR\n\nNote:\nThis order is shipped through blue dart courier\n"
+    },
+    "LOGO": {
+        "bbox": [
+            [
+                0,
+                841
+            ],
+            [
+                90,
+                751
+            ]
+        ]
+    }
+}
