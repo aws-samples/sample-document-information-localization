@@ -1,6 +1,6 @@
 # Document Information Localization with MLLMs
 
-A Python library for extracting and evaluating bounding boxes in document images using Multi-modal Large Language Models (MLLMs) on Amazon Bedrock.
+A Python Sample for extracting and evaluating bounding boxes in document images using Multi-modal Large Language Models (MLLMs) on Amazon Bedrock.
 
 ## Features
 
