@@ -2,6 +2,14 @@
 
 A Python Sample for extracting and evaluating bounding boxes in document images using Multi-modal Large Language Models (MLLMs) on Amazon Bedrock.
 
+## 🚀 Update
+
+**This technique has been adopted by the AWS Accelerated Intelligent Document Processing solution!** 
+
+If you're looking for a ready-to-roll, production-ready solution that incorporates these document information localization techniques, check out the [Accelerated Intelligent Document Processing on AWS](https://github.com/aws-solutions-library-samples/accelerated-intelligent-document-processing-on-aws) solution. 
+
+Learn more about how this approach is being used at scale in the AWS blog post: [Accelerate intelligent document processing with generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/).
+
 ## Features
 
 - Extract bounding boxes from document images using MLLMs
@@ -76,4 +84,3 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
